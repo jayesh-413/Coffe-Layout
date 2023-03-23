@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fix{
+    max-width: 1200px;
+    margin: auto;
+}
+.div1{
+    background-color: #6f4e37;
+    margin-top: 0px;
+    color: white;
+    padding: 10px;
+    position: relative;  
+}
+.ship{
+    margin-left: 40%;
+}
+.logo{
+    height: 6%;
+    width: 3%;
+    position: absolute;
+    top:0;
+    margin-left: 49%; ;
+}
+.b{
+    font-size: 30px;
+    color: sienna;
+}
+.div2{
+    height:470px;
+    width: 100%;
+    background-color:rgb(239 236 231);
+    
+}
+.img1{
+    float: right;
+    height: 355px;
+    width: 400px;
+    margin-right: 14%;
+    margin-top: 5%;
+}
+.img2{
+    margin-left: 5%;
+    
+}
+.div3{
+    margin-top: -30%;
+    margin-left: 7%;
+}
+.title_cv{
+    margin-top: 2%;
+    font-size: 19px;
+    line-height: 23px;
+    color: indianred;
+}
+.button1{
+    padding: 10px;
+    background-color: #6f4e37;
+    font-size: 15px;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 2%;
+    padding-inline: 30px;
+}
+.button1:hover{
+    transition-duration: 100ms;
+    font-size: 18px;
+    background-color: chocolate;
+}
+.div7{
+    height: 580px;
+    width: 100%;
+}
+.div4{
+    clear: both;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+.para2{
+    margin-left: -10%;
+    font-size: 19px;
+    margin-top: 2%;
+    color: navy;
+}
+.a{
+    border-bottom: 2px solid gray;
+    font-size: 25px;
+    margin-left: 10%;
+    color: navy; 
+    width: 24%;
+    
+}
+.span1{
+    margin-left: 10%;
+}
+
+.img3{
+    margin-left: 8%;
+    width: 32%;
+    margin-top: 4%;
+}
+.div6{
+    margin-left: 50%;
+    margin-top: -30%;
+}
+.s{
+    font-size: 28px;
+    color: firebrick; 
+}
+.about_para{
+    margin-top: 2%;
+    font-size: 19px;
+    line-height: 23px;
+    color:tomato; 
+}
+.about_para2{
+    margin-top: 2%;
+    font-size: 20px;
+    color: olivedrab;
+    
+}
+.button2{
+    padding: 10px;
+    background-color: #6f4e37;
+    font-size: 15px;
+    color: white;
+    border: none;
+   border-radius: 7px;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 3%;
+    padding-inline: 30px;
+}
+.button2:hover{
+    transition-duration: 100ms;
+    font-size: 18px;
+    background-color: chocolate;
+}
+.div8{
+    height: 540px;
+    width: 100%;
+    background-color:rgb(239 236 231);
+    margin-top: 2%;
+}
+
+.pro{
+    padding-top: 3%;
+    color: firebrick; 
+    border-bottom: 1px solid gray;
+    margin-left: 40%;
+    width: 19%;
+    border-width: 2px;
+    
+}
+.img4{
+    width: 180px;
+    height: 170px;
+    padding-left: 3%;
+    margin-top: 10%;
+    
+}
+.div10{
+    height: 340px;
+    width: 220px;
+    border: 1px solid black;
+    float: left;
+    margin: 20px;
+    margin-top: 7%;
+    border-color: gray;
+}
+.div11{
+    margin-left: 212px;
+}
+.span4{
+    border-bottom: 1px solid gray;
+    margin-left: 15px;
+    width: 80%;
+    font-size: 20px;
+    margin-top: 7%;
+    color:#343131b1;
+    font-weight: bold;
+}
+.para5{
+    margin-top: 4%;
+    margin-left: 15px;
+    font-size: 17px;
+    
+}
+.para6{
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 4%;
+    font-size: 19px;
+}
+.img5{
+    clear: both;
+    float: right;
+    margin-right: 20%;
+    margin-top: 7%;
+}
+.head{
+    padding-top: 10%;
+    margin-left: -20%;
+    font-size: 29px;
+    color:darkslategray; 
+}
+.head::selection{
+    color: burlywood;
+    background-color: brown;
+}
+.para7{
+    font-size: 18px;
+    margin-left: -20%;
+    margin-top: 2%;
+    color: chocolate;     
+}
+.div11{
+    height: 500px;
+}
